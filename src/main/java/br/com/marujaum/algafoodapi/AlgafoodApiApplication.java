@@ -1,7 +1,6 @@
 package br.com.marujaum.algafoodapi;
 
 import br.com.marujaum.algafoodapi.di.modelo.Cliente;
-import br.com.marujaum.algafoodapi.di.service.AtivacaoClienteService;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

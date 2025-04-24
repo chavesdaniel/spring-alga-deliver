@@ -1,7 +1,6 @@
 package br.com.marujaum.algafoodapi.di.notificacao;
 
 import br.com.marujaum.algafoodapi.di.modelo.Cliente;
-import org.springframework.stereotype.Component;
 
 public class NotificadorEmail implements Notificador {
 
