@@ -20,9 +20,7 @@ public class MeuPrimeiroController {
     @ResponseBody
     public String hello() {
         Cliente joao = new Cliente("Joao", "joao@gmail.com", "88888888" );
-
         ativacaoClienteService.ativar(joao);
-
         return "Hello Maruj!!";
     }
 }
